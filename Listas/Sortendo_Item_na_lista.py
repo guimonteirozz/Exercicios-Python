@@ -1,6 +1,5 @@
-# Ex019-Sorteando um item na lista #
+# Sorteando um item na lista #
 from random import choice
-print('{:=^40}'.format('Ex019-Sorteando um item na lista'))
 
 aluno1 = input('Digite o nome do Primeiro Aluno: ')
 aluno2 = input('Digite o nome do Segundo Aluno: ')
